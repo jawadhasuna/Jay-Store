@@ -1,0 +1,5 @@
+# Keep web sources LF in the repo so diffs stay meaningful on Windows.
+*.html text eol=lf
+*.css  text eol=lf
+*.js   text eol=lf
+*.svg  text eol=lf
